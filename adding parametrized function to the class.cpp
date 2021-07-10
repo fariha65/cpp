@@ -1,4 +1,5 @@
 ///adding parametrized function to the class
+
 #include<iostream>
 using namespace std;
  class student
